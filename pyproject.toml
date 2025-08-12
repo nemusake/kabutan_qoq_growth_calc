@@ -2,7 +2,6 @@
 name = "kabutan-qoq-growth-calc"
 version = "0.1.0"
 description = "株探の四半期成長率計算ツール"
-readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pandas>=2.0.0",
